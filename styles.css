@@ -1,0 +1,16 @@
+
+.navbar-brand{
+    font-size: 80px;
+    color: green;
+}
+.card-img-top{
+    height: 400px;
+    width: 635px;
+    object-fit: cover;
+}
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1000px; /* espacio entre logo y texto */
+}
